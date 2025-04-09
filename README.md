@@ -312,3 +312,16 @@ You will be required to demonstrate your implementations in a viva. This will in
 
 As part of the viva, we will also discuss your report. You should be prepared to discuss and expand on any points mentioned in your report.
 
+
+
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).  
+
+```bash
+Copyright (C) 2025  Frederick Zou
+```
+
+See the [LICENSE](./LICENSE) file for full details.
+
